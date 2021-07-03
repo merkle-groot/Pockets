@@ -1,0 +1,48 @@
+Arguments: 
+  /usr/bin/node /usr/bin/yarn add deta
+
+PATH: 
+  /home/puter/.deta/bin:/home/puter/.deta/bin:/home/puter/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/puter/.zokrates/bin:/home/puter/.gem/ruby/2.7.0/bin:/home/puter/Android/Sdk/emulator:/home/puter/Android/Sdk/tools:/home/puter/Android/Sdk/tools/bin:/home/puter/Android/Sdk/platform-tools:/home/puter/fabric/fabric-samples/bin:/home/puter/.zokrates/bin:/home/puter/.gem/ruby/2.7.0/bin:/home/puter/Android/Sdk/emulator:/home/puter/Android/Sdk/tools:/home/puter/Android/Sdk/tools/bin:/home/puter/Android/Sdk/platform-tools:/home/puter/fabric/fabric-samples/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  15.11.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:69:26)
+
+npm manifest: 
+  {
+    "name": "tinker-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "punkster21",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^12.5.1",
+      "ethereumjs-tx": "^2.1.2",
+      "mysql2": "^2.2.5",
+      "nodemon": "^2.0.7",
+      "pg": "^8.5.1",
+      "pg-hstore": "^2.3.3",
+      "sequelize": "^6.5.1",
+      "web3": "^1.3.4",
+      "web3-eth-contract": "^1.3.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

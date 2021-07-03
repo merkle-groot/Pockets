@@ -1,0 +1,5 @@
+config.json
+mysql-config
+node_modules
+db-test
+test.js
