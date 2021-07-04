@@ -1,0 +1,10 @@
+{
+    "BOT_TOKEN": "",
+    "rpc_url": "",
+    "address": "",
+    "private_key": "",
+    "contract_address": "",
+    "deta_key":"",
+    "abi": [
+    ]
+}
