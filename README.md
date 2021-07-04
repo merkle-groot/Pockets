@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/merkle-groot/Pockets">
     <img src="./readme-src/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Screenshot](./readme-src/screen.png)
 
 ### What is Pockets?
 Pockets allows tipping your fellow members on your Discord server with ERC-20 tokens which can be seen as reputation points (i.e like Karma in Reddit). The bot handles all the behind-the-scenes interacting with Pockets smart-contract which keeps track of the token holders. 
